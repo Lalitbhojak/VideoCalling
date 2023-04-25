@@ -31,7 +31,7 @@ function listen(){
             audio : true,
             video : true
 
-        }, (strem) => {
+        }, (stream) => {
             localVideo.srcObject = stream
             localStream = stream
 
