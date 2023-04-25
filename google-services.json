@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995513743808",
+    "project_id": "videocalling-bf602",
+    "storage_bucket": "videocalling-bf602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995513743808:android:a0da3f49a3202d69dfb025",
+        "android_client_info": {
+          "package_name": "com.working.videocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995513743808-mt8fp2olddetmi3aauunuf5avea0quiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpG7tfJxeW71mO6KYGc_oTwb-7JUshoJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995513743808-mt8fp2olddetmi3aauunuf5avea0quiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
